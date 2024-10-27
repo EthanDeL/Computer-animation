@@ -2,6 +2,8 @@
 
 This project is a computer animation created in HTML and CSS, simulating the sequential appearance of lines of text on a black screen, accompanied by a stylized keyboard that reacts to the animation.
 
+<img width="748" alt="preview" src="https://github.com/user-attachments/assets/df17d8f0-129b-4db1-8b04-550e345d3ea4">
+
 ## Features
 
 - 🌟 **Sequenced line animation**: Lines of text appear one by one, with a defined delay for each, creating a realistic typing effect.
